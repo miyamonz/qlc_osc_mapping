@@ -1,0 +1,23 @@
+{
+  "name": "qlc_osc_mapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "gh-pages -d dst -b release -g $filename",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyamonz/qlc_osc_mapping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miyamonz/qlc_osc_mapping/issues"
+  },
+  "homepage": "https://github.com/miyamonz/qlc_osc_mapping#readme",
+  "dependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}
